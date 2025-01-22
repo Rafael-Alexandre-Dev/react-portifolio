@@ -4,27 +4,25 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `Desenvolvedor experiente em criação de soluções inovadoras e eficientes.
-Por ter experiência Full-Stack tenho conhecimento tanto no Front-end (React JS, Html, Sass/Scss, etc)
+Por ter experiência Full-Stack tenho conhecimento tanto no Front-end (React JS, Html, Sass/Scss, React-Native)
 quanto no Back-end (Node JS, Javascript, API-Rest, SQL, Mysql).`;
 
-export const ABOUT_TEXT = `Sou um desenvolvedor dedicado e versátil que está sempre disposto a aprender. Estou a 3 anos e meio no mercado de trabalho, onde, 
-tenho focado em JS, mais especificamente Node JS para o backend e React JS no frontend. Busco entregar soluções inteligentes e inovadoras baseadas em um levantamento
+export const ABOUT_TEXT = `Sou um desenvolvedor dedicado e versátil que está sempre disposto a aprender. Estou a quase 4 anos no mercado de trabalho, onde, 
+tenho focado em JS, mais especificamente Node JS para o backend e React JS ou React Native no frontend . Busco entregar soluções inteligentes e inovadoras baseadas em um levantamento
  de requsitos detalhados, onde a conversa e interpretação do que o cliente me passa é um passo muito importante para a entrega de um produto com excelência. Sou bem sociável e trabalho bem em grupo,
  possuo a vantagem de ser muito sincero em tudo que faço, mas isso não me impede de ser um bom ouvinte. De liderado a lider, de lider a liderado, o respeito deve sempre ser mantido.
 `;
 
 export const EXPERIENCES = [
   {
-    year: "DEZ 2021 - Atual",
-    role: "Desenvolvedor Full Stack Júnior",
+    year: "DEZ 2021 - DEZ 2024",
+    role: "Desenvolvedor Pleno",
     company: "RIOTELE REAL INTERNET OPTICA TELECOMUNICAÇÕES - HORTOLÂNDIA",
     description: `Resolução de problemas, automatização e otimização de processos, 
     Experiência em desenvolvimento de software, 
     Desenvolvimento Web,
     Aplicações locais e aplicativos para smartphones,
-    Aplicações na VPS,
-    Experiência em integração de sistemas (Issabel, IXC, Fortics PABX, Fortics SZchat) e
-    Manutenção de hardware.`,
+    Aplicações na VPS`,
     technologies: [
       "React JS",
       "React Native",
